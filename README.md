@@ -12,6 +12,8 @@ Version 1.0 : 25/11/2020.
 
 Version 2.0 : 07/12/2020.
 
+Version 3.0 : 11/12/2020.
+
 Used Technologies in the development of EasySave :  
 This section lists each of the major technologies used to complete this project. For anymore details you can see the acknowledgements section.
 
