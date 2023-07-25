@@ -1,0 +1,45 @@
+====
+11-12-2020 / V3.0.1
+-The application cannot be launched more than once on the same computer
+
+====
+11-12-2020 / V3.0.2
+-Add progress bar design
+
+====
+12-12-2020 / V3.0.3
+-Add Multi language for the App (English/French)
+
+====
+12-12-2020 / V3.0.3.a
+-First implementation of async functionality and progress bar.
+
+====
+12-12-2020 / V3.0.3.b
+-Fast fix of differential save
+
+====
+14-12-2020 / V3.0.4
+-Fixed differential save (Now you can do parallel saves with the diff save).
+-Now you can cancel a save
+
+====
+15-12-2020 / V3.0.5
+-Add Server Socket (Now server can start at 127.0.0.1:8888).
+-Add Client Socket (Now client can connect to the server at 127.0.0.1:8888)
+-Add Message box (Now client can send messages to server)
+
+====
+17-12-2020 / V3.0.6
+-Add Pause/Play (Now you can pause/play the saves)
+
+====
+17-12-2020 / V3.0.7
+-Add Temporary pause (Now the save is paused if a specific software is detected)
+
+====
+17-12-2020 / V3.0.7.a
+-Changed design of buttons
+
+====
+17-12-2020 / STABLE VERSION

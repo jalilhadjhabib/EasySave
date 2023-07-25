@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBNcSjaXGW9he/Ziy3k+iiaacIawwFv/Coz6pNYHRZDs559/jA8JoqOpVzPlxU1OisZKYlGB614K0kK+rea0Ig==",
+  "success": true,
+  "projectFilePath": "C:\\EasySave\\Version 2.0\\Source Code\\CryptoSoft\\CryptoSoft\\CryptoSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jalil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

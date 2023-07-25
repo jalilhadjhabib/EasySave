@@ -1,0 +1,42 @@
+﻿<Page x:Class="EasySave_V2._0.welcome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave_V2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="welcome">
+    <!-- Define column and rows-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="120*"/>
+            <ColumnDefinition Width="13*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="355"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <!--User interface elements (Button, Text,etc..) -->
+        <Image Grid.Column="1" Source="https://i.imgur.com/XmMGV2r.jpg" HorizontalAlignment="Left" Width="480" Margin="25,21,0,40" Grid.RowSpan="2"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="16" FontWeight="Bold" RenderTransformOrigin="5.215,4.13" Margin="516,312,0,0" Foreground="White"><Run Language="fr-fr" Text="V3.0"/></TextBlock>
+
+        <TextBlock HorizontalAlignment="Left" Margin="111,26,0,0"  FontWeight="Bold" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" Width="160" RenderTransformOrigin="0.5,0.5" Foreground="Crimson" FontSize="16" Grid.Column="1">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.048"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+                <!--  
+            </TextBlock.RenderTransform><Run Language="fr-fr" Text="Choose A Language :"/>
+        <Button x:Name="eng_btn" Content="English" Grid.Column="1" HorizontalAlignment="Left" Margin="277,22,0,0" VerticalAlignment="Top" Cursor="Hand" Click="btn_eng_Click"/>
+        <Button x:Name="fra_btn" Content="Francais" Grid.Column="1" HorizontalAlignment="Left" Margin="389,22,0,0" VerticalAlignment="Top" Cursor="Hand" Click="btn_fra_Click"/>
+       -->
+            </TextBlock.RenderTransform>
+        </TextBlock>
+    </Grid>
+</Page>

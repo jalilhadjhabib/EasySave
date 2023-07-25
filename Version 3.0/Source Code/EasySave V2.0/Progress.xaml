@@ -1,0 +1,68 @@
+﻿<Window x:Class="EasySave_V2._0.Progress"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave_V2._0"
+      mc:Ignorable="d"
+      Title="Add new save task" ResizeMode="CanMinimize" Background="#FF212121" Height="473" Width="904" MinWidth="903" MaxWidth="903" MinHeight="473" MaxHeight="473">
+    <!-- Define column and rows-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="180" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="57*" />
+            <ColumnDefinition Width="8*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <!--User interface elements (Button, Text,etc..) -->
+
+        <Label x:Name="label1" HorizontalContentAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="White" Grid.ColumnSpan="4" Margin="73,10,181,20" Grid.RowSpan="2" Content="Add new save task"/>
+        <Label  x:Name="label2" Grid.Row="1" Margin="99,25,1,29" Foreground="White" Content="Enter a task name :" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label  x:Name="label3" Grid.Column="1" Grid.Row="2" Padding="0,10" Margin="0,25,0,25" Grid.RowSpan="2" Foreground="White" Content="Choose a save type :" />
+        <Label  x:Name="label4" Grid.Row="3" Margin="99,29,1,35" Foreground="White" Content="Enter a directory source path :" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <Label  x:Name="label5" Grid.Column="1" Grid.Row="4" Margin="0,40,0,34" Foreground="White" Content="Enter a directory target path :" Grid.RowSpan="2"></Label>
+        <TextBox x:Name="save_name" Grid.Column="3" Margin="0,25,10,29"  CaretBrush="#FF14BDE2" SelectionBrush="#FF14BDE2" Foreground="White" Grid.Row="1" TextChanged="save_name_TextChanged" HorizontalAlignment="Right" Width="240" Grid.RowSpan="2"/>
+        <TextBox x:Name="srcPath" Grid.Column="3" Margin="0,22,10,28"  CaretBrush="#FF14BDE2" SelectionBrush="#FF14BDE2" Foreground="White" Grid.Row="3" IsEnabled="True" Grid.RowSpan="2"/>
+        <TextBox x:Name="dstPath" Grid.Column="3" Margin="0,33,10,27"  CaretBrush="#FF14BDE2" SelectionBrush="#FF14BDE2" Foreground="White" Grid.Row="4" IsEnabled="True" Grid.RowSpan="2"/>
+        <Button Grid.Column="5" Grid.Row="3" Height="Auto" Margin="0,29,0,29" FontSize="12" FontWeight="Normal" Click="Button_Click" Grid.RowSpan="2">Browse</Button>
+        <Button Grid.Column="5" Grid.Row="4" Height="Auto" Margin="0,36,0,32" FontSize="12" FontWeight="Normal" Click="Button_Click_1" Grid.RowSpan="2">Browse</Button>
+        <Button x:Name="submit_btn" Grid.Column="3" Grid.Row="5" Margin="210,44,114,24" Click="Submit_Click" Grid.ColumnSpan="4" Cursor="Hand" Grid.RowSpan="2">Submit</Button>
+        <Button x:Name="loadsave_btn" Grid.Row="5" Margin="31,44,209,18" Click="Loadsave_Click" Grid.ColumnSpan="3" Cursor="Hand" Grid.Column="1" Grid.RowSpan="2">Load Last Save Informations</Button>
+
+        <ComboBox Grid.Column="3" Grid.Row="2" x:Name="comboBox"
+         IsEditable = "True" Foreground="White" SelectionChanged="comboBox_SelectionChanged" Margin="0,31,0,0" Grid.RowSpan="2" VerticalAlignment="Top">
+            <ComboBoxItem Name="gg" Foreground="Black" Content = "Full Save" />
+            <ComboBoxItem Name="gg2" Foreground="Black" Content = "Differential Save" />
+        </ComboBox>
+        <ProgressBar x:Name="_progressBar" Grid.Column="1" HorizontalAlignment="Center" Height="26" Margin="0,46,0,0" Grid.Row="7" VerticalAlignment="Top" Width="500" Grid.ColumnSpan="6"/>
+        <TextBlock x:Name="_textBlock" HorizontalAlignment="Left" Margin="136,0,0,0" Grid.Row="7" TextWrapping="Wrap" VerticalAlignment="Top" Height="48" Width="133" FontSize="30" Foreground="White" FontWeight="Bold" Text=" Progress" Grid.Column="1" Grid.ColumnSpan="3"/>
+        <Button Click="Cancel" Grid.Column="4" HorizontalAlignment="Left" Margin="7,8,0,0" Grid.Row="7" VerticalAlignment="Top" Grid.ColumnSpan="2" Background="Red" Foreground="Black" Height="33">
+            <materialDesign:PackIcon Kind="Stop"></materialDesign:PackIcon>
+        </Button>
+        <Button Click="Pause" Grid.Column="5" HorizontalAlignment="Left" Grid.Row="7" VerticalAlignment="Top" Width="46" Margin="44,8,0,0" Background="Yellow" Foreground="Black" Cursor="Hand">
+            <materialDesign:PackIcon Kind="Pause"></materialDesign:PackIcon>
+        </Button>
+        <TextBox x:Name="textBoxcheck2" FontSize="20" HorizontalAlignment="Left" Margin="20,0,0,0"  TextWrapping="Wrap" VerticalAlignment="Center" Width="274" Foreground="#FF07D811" TextChanged="textBox2check" Grid.ColumnSpan="2" Grid.Column="5"/>
+        <Button x:Name="check_btn2" Click="checkBtn" Content="Check" HorizontalAlignment="Left" Margin="52,77,0,0" VerticalAlignment="Top" Width="142" Grid.Column="6" Grid.RowSpan="2" Cursor="Hand"/>
+        <Button Grid.Column="5" HorizontalAlignment="Left" Margin="99,8,0,0" Grid.Row="7" VerticalAlignment="Top" RenderTransformOrigin="-0.912,-4.953" Click="Resume" Grid.ColumnSpan="2" Foreground="Black" Background="#FF19C119" Width="46" Cursor="Hand">
+            <materialDesign:PackIcon Kind="Play"></materialDesign:PackIcon>
+        </Button>
+
+
+    </Grid>
+</Window>

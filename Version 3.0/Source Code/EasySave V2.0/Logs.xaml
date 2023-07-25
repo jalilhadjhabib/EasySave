@@ -1,0 +1,37 @@
+﻿<Page x:Class="EasySave_V2._0.Logs"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave_V2._0"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="encrypt">
+    <!-- Define column and rows-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="180" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        <!--User interface elements (Button, Text,etc..) -->
+        <Label Grid.Column="1" HorizontalContentAlignment="Center" FontSize="30" FontWeight="Bold" Foreground="White" Grid.ColumnSpan="3" Margin="152,20,2,10" Grid.RowSpan="2" RenderTransformOrigin="0.568,0.5">Logs</Label>
+        <Button Grid.Column="3" Grid.Row="3" Height="Auto" Margin="5,19,55,39" FontSize="12" FontWeight="Normal" Click="OpenLogs" Grid.RowSpan="2" Cursor="Hand">Open Logs File</Button>
+        <Button Grid.Column="3" Grid.Row="5" Height="Auto" Margin="5,10,55,8" FontSize="12" FontWeight="Normal" Click="OpenState" Cursor="Hand">Open State File</Button>
+
+    </Grid>
+</Page>

@@ -1,0 +1,148 @@
+﻿<Window x:Class="EasySave_V2._0.MainWindow"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+         TextElement.FontWeight="Regular"
+         TextElement.FontSize="13"
+         TextOptions.TextFormattingMode="Ideal"
+         TextOptions.TextRenderingMode="Auto"
+         Background="#212121"
+         FontFamily="{DynamicResource MaterialDesignFont}"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasySave_V2._0"
+        
+        mc:Ignorable="d"
+        Title="EasySave" Height="484.848" Width="690.909"
+         WindowStyle="None"
+        AllowsTransparency="True"
+        MouseDown="Window_MouseDown">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="lang/MainWindow.id-ID.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <!--User interface elements (Button, Text,etc..) -->
+    <materialDesign:DrawerHost IsLeftDrawerOpen="{Binding ElementName=MenuToggleButton, Path=IsChecked}">
+        <materialDesign:DrawerHost.LeftDrawerContent>
+            <DockPanel MinWidth="212">
+                <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                              DockPanel.Dock="Top"
+                              HorizontalAlignment="Right" Margin="16"
+                              IsChecked="{Binding ElementName=MenuToggleButton, Path=IsChecked, Mode=TwoWay}" />
+                <Menu>
+                    <Menu.Resources>
+                        <Style   TargetType="MenuItem" BasedOn="{StaticResource {x:Type MenuItem}}">
+
+                        </Style>
+                    </Menu.Resources>
+                    <Menu.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <VirtualizingStackPanel />
+                        </ItemsPanelTemplate>
+                    </Menu.ItemsPanel>
+                    <MenuItem x:Name="header2" Header="{DynamicResource ResourceKey=Home}" Click="MenuItem_Click_3">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="Home" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+                    <MenuItem x:Name="header4" Click="addnewtask_Click" Header="{DynamicResource ResourceKey=Save}">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="ContentSave" />
+                        </MenuItem.Icon>
+
+                        <!--<MenuItem Header="Launch a specific save task" Click="launchtask_Click"></MenuItem>
+                        <MenuItem Header="Launch a sequence of save tasks" Click="MenuItem_Click"></MenuItem>
+                        <MenuItem Header="Consult save tasks list" Click="MenuItem_Click_1"></MenuItem><-->
+
+
+                    </MenuItem>
+
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+
+                    <MenuItem x:Name="header8"  Header="{DynamicResource ResourceKey=Logs}" Click="logs_Click">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="Alarm" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+
+                    <MenuItem Click="MenuItem_Click_2"  Header="{DynamicResource ResourceKey=CryptoSoft}">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="Lock" />
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+
+                    <MenuItem x:Name="header9"  Header="{DynamicResource ResourceKey=Running App Checker}" Click="process_checker_Click">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="CheckNetwork" />
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+
+                    <MenuItem   Header="Socket" Click="socket_server_Click">
+                        <MenuItem.Icon>
+                            <materialDesign:PackIcon Kind="dns"/>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator Width="150" HorizontalAlignment="Left"/>
+
+                    
+
+                </Menu>
+            </DockPanel>
+        </materialDesign:DrawerHost.LeftDrawerContent>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <materialDesign:ColorZone Padding="16" materialDesign:ShadowAssist.ShadowDepth="Depth2"
+                                      Mode="PrimaryMid" DockPanel.Dock="Top" Background="Black">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="3*"/>
+                        <RowDefinition Height="34*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <ToggleButton Style="{StaticResource MaterialDesignHamburgerToggleButton}" IsChecked="False"
+                                  x:Name="MenuToggleButton" Grid.Column="0" Grid.RowSpan="2"/>
+                    <Image  Grid.RowSpan="2" Grid.Column="1" Margin="245,-27,280,-29" UseLayoutRounding="True" SnapsToDevicePixels="True" ></Image>
+                    <Button Content="{materialDesign:PackIcon Close}" HorizontalAlignment="Right" RenderTransformOrigin="15.494,0.531" Margin="0,2,0,3" Width="47" Grid.Column="1" Background="#FFE74C3C" BorderBrush="#FFE74C3C" Click="Button_Click" Grid.RowSpan="2"></Button>
+                </Grid>
+            </materialDesign:ColorZone>
+
+            <Frame x:Name="Main" Grid.Row="1" NavigationUIVisibility="Hidden" Margin="-54,0,-41,-20"/>
+            <Frame IsEnabled="False" x:Name="Progress" Margin="0,337,0,0" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+
+
+            <DockPanel Margin="5">
+                <Menu DockPanel.Dock="Top" Width="461" Foreground="White" Background="Black">
+                    <MenuItem Name = "menuItemLanguages" Header= "Language" Height="60" Width="189" >
+                        <MenuItem Header= "English" Tag= "en-US" IsCheckable= "True" Click= "MenuItem_Click" />
+                        <MenuItem Header= "Français" Tag= "id-ID" IsCheckable= "True" Click= "MenuItem_Click" />
+                    </MenuItem >
+                </Menu >
+            </DockPanel>
+
+
+
+        </Grid>
+    </materialDesign:DrawerHost>
+
+
+
+</Window>

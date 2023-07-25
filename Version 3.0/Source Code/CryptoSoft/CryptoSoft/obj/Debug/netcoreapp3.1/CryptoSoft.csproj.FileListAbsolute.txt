@@ -1,0 +1,43 @@
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csprojAssemblyReference.cache
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Jalil\source\repos\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csprojAssemblyReference.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CopyComplete
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.exe
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.deps.json
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.json
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.runtimeconfig.dev.json
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csprojAssemblyReference.cache
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfoInputs.cache
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.AssemblyInfo.cs
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.csproj.CopyComplete
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.dll
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.pdb
+C:\EasySave\Version 2.0\Source Code\CryptoSoft\CryptoSoft\obj\Debug\netcoreapp3.1\CryptoSoft.genruntimeconfig.cache

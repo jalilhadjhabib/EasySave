@@ -1,0 +1,63 @@
+=======
+27-11-2020 / V1.0.1 => 
+Updated structure of backup algorithm and add new features :
+a- Now able to backup subfolders as well as files inside 
+b- Remake of the logical structure of the code and enchanced file management algorithm
+c- Upgrades of the HMI (Able to output more info about the prosses)
+
+=======
+27-11-2020 / V1.0.2 => 
+a- Add a Function to create log file
+
+=======
+27-11-2020 / V1.0.3 => 
+a- Add a supplements things for the log files
+
+=======
+28-11-2020 / v1.0.4 => 
+- Add a function to create state file
+- Upgrades of the HMI
+
+=======
+28-11-2020 / v1.0.5 =>
+- Add differential save
+- Add name for the save
+
+=======
+28-11-2020 / v1.0.6 =>
+- Add a limitation of 5 backup tasks per session
+
+=======
+28-11-2020 / v1.0.6.a
+- Fixed differential save
+
+=======
+29-11-2020 / v1.0.7
+-Fixed several user input related bugs (wrong paths , usage of wrong keys for input etc...)
+-Enchanced HIM now can display how many files got copied in the backup process and single file informations being copied (size,source/target path,name) 
+-Addition of "Load Last save info" option , allows user to see a resume of last backup process with the following info(name of save, type of save, source/target path, total size of saved files in Ko)
+-Addition of some QoF (quality of life) , now user will be prompt with options to go back to menu (now menu gets totaly cleaned and reloaded when user is prompt to)
+
+=====
+29-11-2020 / v1.0.8
+-Fixed name of the save (you must enter a name)
+
+=====
+29-11-2020 / v1.0.9
+-Fixed bug where user could enter the same path for source and target directory (now is prompt with and error and sent back to menu after pressing a key)
+-Fixed source/target directory (you must enter a soure/target directory)
+
+=====
+29-11-2020 / Stable Version
+
+=====
+29-11-2020 / Stable Version 1.0.9.a
+-Display "no change were made for this file" when using differential backup
+
+=====
+29-11-2020 / v1.0.9.b
+-Fixed the display "no change were made for this file" when using differential backup
+
+=====
+04-12-2020 / v1.1
+-Add French language

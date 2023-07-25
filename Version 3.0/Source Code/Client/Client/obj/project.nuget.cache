@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJTsJkMGcyI4o4vgezepCH+ey5Newtg6tZIaA6rAOidTdw6m9ahkjhJjV+y/V43l4jdi13U5bdPnIXQIxBnvWw==",
+  "success": true,
+  "projectFilePath": "C:\\EasySave\\Version 3.0\\Source Code\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jalil\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

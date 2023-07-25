@@ -1,0 +1,62 @@
+=====
+03-12-2020 / V2.1
+-Add graphic menu design.
+-Add graphic save design.
+-Add graphic instructions design.
+-Add open logs file function.
+
+=====
+03-12-2020 / V2.2
+-Add New design for the WPF.
+
+=====
+03-12-2020 / V2.3
+-Integration of the Full back up option into the WPF interface.
+-Differential back up integrated tho still needs a small fix to fully work with WPF.
+-Add some small UI tweaks.
+
+=====
+04-12-2020 / V2.4
+-Add Logs design.
+-Add button to open logs file.
+-Add Load save information design.
+
+====
+04-12-2020 / V2.5
+-Add CryptoSoft software.
+
+====
+04-12-2020 / V2.6
+-Fixed Differential Back up (Now it's working with the WPF design).
+
+====
+04-12-2020 / V2.7
+-Add Logs and state files.
+-Add encrypt time in ms.
+
+====
+05-12-2020 / V2.8
+-Add Load last save informations.
+-Fixed Process checker.
+
+====
+05-12-2020 / 2.9
+-Fixed Several Bugs for the save :
+	a-Now you must enter a name for your save.
+	b-Now you must enter a source directory for your save.
+	c-Now you must enter a target directory for your save.
+	d-Now you must choose a save type.
+	e-Now you must enter a a valid process.
+	f-Now you can cancel the file dialog.
+
+====
+05-12-2020 / 2.9.1
+-Impossible to do a save if a specific file is launched.
+-Now you can't enter the same directory in source and target.
+
+====
+06-12-2020 /2.9.1.a
+-Fast fix error.
+
+====
+07-12-2020 / STABLE VERSION

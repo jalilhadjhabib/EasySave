@@ -1,0 +1,148 @@
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csprojAssemblyReference.cache
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.cache
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.lref
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.exe
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.deps.json
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.json
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.dev.json
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.g.resources
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfoInputs.cache
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfo.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.genruntimeconfig.cache
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.g.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.g.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.g.cs
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.baml
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.baml
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.baml
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\source\repos\EasySave V2.0\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CopyComplete
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.exe
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.deps.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.dev.json
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csprojAssemblyReference.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.lref
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.g.resources
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfoInputs.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfo.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CopyComplete
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.genruntimeconfig.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.exe
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.deps.json
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.json
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.dev.json
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.pdb
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csprojAssemblyReference.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.lref
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.g.resources
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfoInputs.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfo.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CoreCompileInputs.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CopyComplete
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.pdb
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.genruntimeconfig.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CoreCompileInputs.cache
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.ResolveComReference.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.ResolveComReference.cache
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.baml
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.g.cs
+F:\EasySave_2.0\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.baml
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.g.cs
+C:\Users\Jalil\Desktop\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.exe
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.deps.json
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.json
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.runtimeconfig.dev.json
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csprojAssemblyReference.cache
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.ResolveComReference.cache
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.g.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.cache
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0_MarkupCompile.lref
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\App.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\addnewtask.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\encrypt.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\loadsave.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\Logs.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\process_checker.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\welcome.baml
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.g.resources
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfoInputs.cache
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.AssemblyInfo.cs
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CoreCompileInputs.cache
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.csproj.CopyComplete
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.dll
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.pdb
+C:\EasySave\Version 2.0\Source Code\EasySave V2.0\obj\Debug\netcoreapp3.1\EasySave V2.0.genruntimeconfig.cache

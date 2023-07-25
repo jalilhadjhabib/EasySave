@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "VpGxywZsZFSa8sxuEsZg2N9cq/eL/rL9FITP+IK+tDprssmc9L0FD6wUz0WpsLAHm8pyOjsm+prPFxqUSKUaKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jalil\\Desktop\\A3\\PROJETS\\Projet 2 - Programmation Système\\EasySave\\Version 3.0\\Source Code\\EasySave V2.0\\EasySave V2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jalil\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\nito.asyncex.coordination\\5.1.0\\nito.asyncex.coordination.5.1.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\nito.asyncex.tasks\\5.1.0\\nito.asyncex.tasks.5.1.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\nito.collections.deque\\1.1.0\\nito.collections.deque.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\nito.disposables\\2.2.0\\nito.disposables.2.2.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
+    "C:\\Users\\Jalil\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'WindowsAPICodePack-Core 1.1.1' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v3.1'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "WindowsAPICodePack-Core",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'WindowsAPICodePack-Shell 1.1.1' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v3.1'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "WindowsAPICodePack-Shell",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
